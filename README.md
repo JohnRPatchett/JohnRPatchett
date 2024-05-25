@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @JohnRPatchett
 - 👀 I’m interested in Robots!!
 - 🌱 I’m currently learning ROS
-- 💞️ I’m looking to collaborate on going it alone for now...
-- 📫 How to reach me Nope!
 - 😄 Pronouns: Hey you!
 - ⚡ Fun fact: Learning drums
 
